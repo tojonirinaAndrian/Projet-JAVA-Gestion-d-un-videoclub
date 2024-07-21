@@ -110,7 +110,7 @@ public class DbOperationsAdmin {
         }
     }
     
-    public void connexion () {
+    public void connexion () {      
         try {
             System.out.println ("DOA : email : " + email);
             System.out.println ("DOA : numero : " + numeroDeTelephone);
